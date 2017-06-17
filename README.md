@@ -1,6 +1,6 @@
 # Kotlin Experimental - Coroutines
 
-### Basics
+### Basics - IDEA Project
 * [First coroutine](https://github.com/vicboma1/kotlin-coroutines/blob/master/00-basics/src/Main.kt)
 * [First coroutine & Test](https://github.com/vicboma1/kotlin-coroutines/blob/master/01-basics/test/MainTest.kt)
 * [RunBlocking](https://github.com/vicboma1/kotlin-coroutines/blob/master/02-basics/test/MainTest.kt)
